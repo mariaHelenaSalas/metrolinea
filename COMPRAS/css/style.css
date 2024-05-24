@@ -1,0 +1,97 @@
+
+.contenedor1 {
+    text-align: right;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 1000px;
+    font-size:30px;
+    
+       
+}
+
+.contenedor1 a {
+    text-decoration: none;
+    color: black;
+}
+.contenedor{
+    margin-top: 200px;
+    margin-bottom: 150px;
+    border: 1px solid;
+    width: 1200px;
+    height: 800px;
+    margin-left: 100px;
+
+}
+.contenedor2{
+    top: 322px;
+    left: 227px;
+    width: 884px;
+    height: 497px;
+    
+    
+}
+.contenedor3{
+    
+    margin-top: 100px;
+    margin-left: 150px;
+    margin-bottom: 150px;
+    margin-right: 300px;
+    width: 800px;
+   
+
+}
+.texto1{
+    font-size: 23px;
+    font-weight: 20px;
+    margin-top: -125px;
+
+}
+.texto3{
+    margin-top: -1px;
+    margin-left: 900px;
+    width: 100px;
+    margin-bottom: 200px;
+    font-family: Arial, Helvetica, sans-serif
+}
+.texto4{
+    margin-top: -279px;
+    margin-left: 900px;
+    width: 100px;
+    margin-bottom: 200px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.texto5{
+    margin-top: -210px;
+    margin-left: 910px;
+    width: 100px;
+    margin-bottom: 200px;
+}
+
+.rectangle1{
+    margin-top: -980px;
+    margin-left:1090px;
+    width:20px;
+    margin-bottom:100px;
+    height: 200px;
+}
+.signo1{
+    
+    position: absolute;
+    margin-left:1130px;
+    margin-top: -260px;
+}
+.signo2{
+    
+    position: absolute;
+    margin-left:1130px;
+    margin-top: 450px;
+}
+.cantidad{
+    position: absolute;
+    margin-left:1110px;
+    margin-top: -100px;
+}
+.numero{
+    position: absolute;
+    margin-left:1123px;
+    margin-top: 10px; 
+}
